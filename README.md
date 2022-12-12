@@ -1,7 +1,7 @@
 # Mathkids
 Gabriel Vargas Gonzalez
 
-##Front
+## Front
  
 Para ser ejecutado es necesario tener instalado en ambiente de desarrollo de React Native que puede ser encontrado en el siguiente link
 

@@ -7,6 +7,7 @@ import {useColorScheme} from 'react-native';
 import { Navegator } from './src/Navegator';
 import { AuthProvider } from './src/context/AuthContex';
 import { NivelesProvider } from './src/context/NivelesContext';
+import Quiz from './src/components/Quiz';
 
 export const AppDark = {
   ...DarkTheme,
