@@ -18,4 +18,4 @@ https://github.com/GabrielVargasG/Back
 
 Es necesarios ejecutar el comando npm i desde la carpeta back para instalar las dependencias de node.
 
-Y por ultimo es necesario correr el back desde la carpeta back con el comando npm start
+Y por ultimo es necesario correr el back con el comando npm start
